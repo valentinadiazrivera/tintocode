@@ -1,0 +1,6 @@
+Hello World!, mi nombre es Daniel Santiago Pérez.
+
+Llevo 4 años en el Mundo de la Programación. 
+Me gusta el programar, la música, los idiomas, la calistenia y en general la adquisición de conocimiento.
+
+Espero algún día poder crear algún lenguaje de programación, un sistema operativo, etc.
