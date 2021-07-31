@@ -1,0 +1,13 @@
+
+
+
+                                              Mi autobiografía
+
+
+Mi nombre es Julian David Galindo León, tengo 18 años de edad, nací el 17 de julio del 2003 en Ibagué-Tolima, desde entonces sigo viviendo allí, en el año 2020 terminé mi formación secundaria en la Institución Educativa Colegio de San Simón, me encuentro en un proceso de formación en el mundo del desarrollor de software de la mano de la fundación CoderDojo con la cual ya venía de un proceso anterior de 4 años, lo que significa que también soy estudiante autodidacta o autónomo, mi objetivo es llegar a ser profesional como arquitecto de software. En estos momentos hago parte de una iniciativa llamada Ibagirls la cual ha reunido diferentes iniciativas como tintoCode la que consiste en un bootcamp sobre tecnologías del desarrollo web, de la anterior soy tutor sobre la herramienta de versionado Git.
+
+Desde corta edad he sido muy apasionado por el deporte y las actividades físicas, siempre he buscado la manera de ser activo en lo que concierne al deporte, de igual manera me ha gustado mucho escuhar la música, soy muy abierto a escuchar nuevos generos musicales y hasta los más antiguos, sin embargo no me he sentido atraido a la idea de tocar música o crearla. La filosofía es una de las cosas que me gusta poner en práctica, de igual manera me ha ayudado a reflexionar mejor sobre lo que soy y lo que me rodea; disfruto estar con personas que me ayuden a crecer tanto en lo personal como en lo colectivo.
+
+Mi familia siempre ha estado influenciada o inclinada hacia la medicina, desde abuelos, tíos, tías y hasta primos, lo que en un comienzo me hizo pensar que yo debía estudiarla de igual manera porque era de familia, pero no fue hasta el año 2017 en que se me presentó la oportunidad de conocer que existía otro mundo llamado "programación", lo primero que pensé fue que sería interesante saber programación y ser médico, empecé con la curiosidad por este mundo y haber tenido esa oportunidad permitió que se expandiera mi forma de ver las cosas, aprendí que no hay una sola cosa en la vida y nada está definido por lo que hace la familia, todo esto me ha traido al punto de querer ser un profesional en este mundo del desarrollo.
+
+En el año 2019 junto a mis compañeros de formación nos llegó una idea, la cual surgió de nuestras experiencias al conocer la programación, la idea trataba de generar un espacio de aprendizaje más didáctico para los jovenes que se quieran acercar a este mundo del desarrollo de software junto con nuestra tutoría, esa idea poco a poco se fue moldeando y se convirtió en lo que ahora conocemos como MindDevs, proyecto en el cual seguimos trabajando para sacarlo adelante.
